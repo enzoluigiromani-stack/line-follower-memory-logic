@@ -14,7 +14,7 @@ Most basic line followers stop or fail when they lose the line. This code implem
 
 ##  Structure
 * `/src`: Contains the `.ino` firmware.
-* `/media`: (Add your robot's photos here!)
+
 
 ---
-*Part of my Computer Science (UFFS) and Mechatronics (IFRS) portfolio.*
+
